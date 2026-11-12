@@ -12,3 +12,6 @@
   The name <code>Bungaku</code> was first inspired from the Anime <a href="https://myanimelist.net/anime/6408/Bungaku_Shoujo_Movie" title='See "Bungaku Shoujo" Movie on MyAnimeList'>"Bungaku Shoujo" Movie</a>.
   </p>
 </div>
+
+> [!IMPORTANT]
+> We're opening a member registration to actively engage in the community. If you have time, ideas or a project that fit our goal; reach out to itsyuukunz@gmail.com.
